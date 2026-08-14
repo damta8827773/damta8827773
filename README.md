@@ -1,68 +1,108 @@
-<h1 align="center">Hi there, I'm Damta 👋</h1>
+<div align="center">
 
-<h3 align="center">Full-Stack Developer & Entrepreneur | Sistem Informasi Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Entrepreneur&descAlignY=55&descAlign=50" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-vibe%20coding%20professionally-orange?style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77216&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Sistem+Informasi+Student;Vibe+Coding+Professionally;Building+for+BUMN+Cybersecurity" />
 
----
+</div>
 
-### 🧠 About Me
+### Tentang Saya
 
-- 🎓 Mahasiswa **Sistem Informasi**, UIN Syarif Hidayatullah Jakarta
-- 💻 Full-stack developer working across **Node.js, TypeScript, PHP, React, MySQL, Tailwind, C, Bootstrap, HTML5/CSS3**
-- 🚀 Currently building **enterprise-grade web systems** and following the latest tech trends
-- 🛡️ Long-term goal: leading a **cybersecurity** team at a BUMN (state-owned enterprise) — currently mapping a path through eJPT → OSCP → CISM/CISSP
-- 🛵 Also run a side business on Shopee selling Honda motorcycle spare parts
-- ⚡ Fun fact: turns any idea into a working prototype fast — "vibe coding professionally"
+Mahasiswa Sistem Informasi di UIN Syarif Hidayatullah Jakarta yang membangun sistem enterprise sambil mengejar target jadi pemimpin cybersecurity di BUMN, khususnya PT Biro Klasifikasi Indonesia. Fokus saat ini mengikuti perkembangan teknologi terbaru dan menerjemahkannya jadi produk nyata.
 
----
+Roadmap sertifikasi jangka panjang eJPT, OSCP, CISM, CISSP menuju posisi CISO.
 
-### 🛠️ Featured Projects
+Juga menjalankan usaha sampingan di Shopee untuk spare part motor Honda.
 
-| Project | Description | Stack |
-|---|---|---|
-| **APP.DAM** — Personal Portfolio | Personal portfolio site migrated from vanilla JS/HTML into a full React/TS monorepo, deployed on Hostinger | React · TypeScript · Vite · Node.js · Express · Prisma · MySQL |
-| **GeprekSupply** | Map-based web app connecting ayam geprek warung owners with nearby ingredient suppliers, using Haversine radius filtering and real ETA calculation | React · TypeScript · MapLibre · Node.js · Express · Prisma · SQLite |
-| **SentinelPatch** | Conceptual enterprise DevSecOps & auto-patching web security SaaS, built around a six-tier SI pyramid governance model | HTML · CSS · Product/UX Prototyping |
-| **Data Warehouse — Warung Kelontong** | Star-schema data warehouse for retail stock movement analysis | Excel · Power Query · Power Pivot · DAX |
+<br>
 
----
+### Proyek Unggulan
 
-### 💻 Tech Stack
+<table>
+<tr>
+<td width="50%">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**APP.DAM Portfolio**
+Portofolio pribadi yang sedang dimigrasi dari vanilla JS/HTML menjadi monorepo React/TypeScript penuh, live di damtaweb.com
 
----
+`React` `TypeScript` `Vite` `Node.js` `Express` `Prisma` `MySQL`
 
-### 📊 GitHub Stats
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+**GeprekSupply**
+Web app berbasis peta yang menghubungkan warung ayam geprek dengan supplier bahan baku terdekat, memakai formula Haversine dan perhitungan ETA real time
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+`React` `TypeScript` `MapLibre` `Node.js` `Express` `Prisma` `SQLite`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 📫 Let's Connect
+**SentinelPatch**
+Konsep SaaS DevSecOps enterprise untuk auto patching keamanan web, disusun mengikuti hierarki tata kelola SI enam tingkat
 
-<p align="left">
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+`Prototype` `UX Design` `Security Architecture`
+
+</td>
+<td width="50%">
+
+**Data Warehouse Warung Kelontong**
+Star schema data warehouse untuk analisis pergerakan stok retail
+
+`Excel` `Power Query` `Power Pivot` `DAX`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,react,mysql,tailwind,bootstrap,c,html,css,vscode&theme=dark" />
+
+</div>
+
+<br>
+
+### GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=damta8827773&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damta8827773&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damta8827773&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=damta8827773&theme=radical&no-frame=true&row=1&column=6" />
+
+</div>
+
+<br>
+
+### Aktivitas Terbaru
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br>
+
+<div align="center">
+
+### Terhubung
+
+<a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/GANTI_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://damtaweb.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=damta8827773&color=orange&style=flat-square&label=Profile+Views" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
