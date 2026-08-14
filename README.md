@@ -1,61 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%26%20Entrepreneur&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%2013%2B%20Shipped%20Projects&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F77216&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Sistem+Informasi+Student;Vibe+Coding+Professionally;Building+for+BUMN+Cybersecurity" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77216&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sistem+Informasi+Student+at+UIN+Jakarta;13%2B+Public+%26+Private+Repositories;Building+Toward+Cybersecurity+Leadership" />
 
 </div>
 
 ### Tentang Saya
 
-Mahasiswa Sistem Informasi di UIN Syarif Hidayatullah Jakarta yang membangun sistem enterprise sambil mengejar target jadi pemimpin cybersecurity di BUMN, khususnya PT Biro Klasifikasi Indonesia. Fokus saat ini mengikuti perkembangan teknologi terbaru dan menerjemahkannya jadi produk nyata.
+Mahasiswa Sistem Informasi di UIN Syarif Hidayatullah Jakarta yang aktif membangun sistem full-stack dari nol sampai produksi, mulai dari platform e-commerce, sistem manajemen inventori, automasi berbasis AI, hingga arsitektur keamanan siber enterprise.
 
-Roadmap sertifikasi jangka panjang eJPT, OSCP, CISM, CISSP menuju posisi CISO.
+Roadmap jangka panjang saya menuju karir cybersecurity leadership di lingkungan BUMN, dengan target sertifikasi eJPT, OSCP, CISM, dan CISSP.
 
-Juga menjalankan usaha sampingan di Shopee untuk spare part motor Honda.
+Saat ini sudah punya 13 lebih repository publik dan privat yang mencakup berbagai domain: retail, esports, keuangan, perpustakaan digital, hingga platform DevSecOps.
 
 <br>
 
-### Proyek Unggulan
+### Proyek Pilihan
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**APP.DAM Portfolio**
-Portofolio pribadi yang sedang dimigrasi dari vanilla JS/HTML menjadi monorepo React/TypeScript penuh, live di damtaweb.com
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=premium&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=geprek-supply&theme=radical&hide_border=true" />
 
-`React` `TypeScript` `Vite` `Node.js` `Express` `Prisma` `MySQL`
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=sistem-otomasi-suara&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=esports-management-system&theme=radical&hide_border=true" />
 
-</td>
-<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=steam-cuci-motor&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=damta8827773&repo=pendapatan&theme=radical&hide_border=true" />
 
-**GeprekSupply**
-Web app berbasis peta yang menghubungkan warung ayam geprek dengan supplier bahan baku terdekat, memakai formula Haversine dan perhitungan ETA real time
+</div>
 
-`React` `TypeScript` `MapLibre` `Node.js` `Express` `Prisma` `SQLite`
+<br>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Proyek Lainnya
 
-**SentinelPatch**
-Konsep SaaS DevSecOps enterprise untuk auto patching keamanan web, disusun mengikuti hierarki tata kelola SI enam tingkat
-
-`Prototype` `UX Design` `Security Architecture`
-
-</td>
-<td width="50%">
-
-**Data Warehouse Warung Kelontong**
-Star schema data warehouse untuk analisis pergerakan stok retail
-
-`Excel` `Power Query` `Power Pivot` `DAX`
-
-</td>
-</tr>
-</table>
+| Repository | Deskripsi | Stack |
+|---|---|---|
+| **portoprivate** | Source code resmi portofolio pribadi, dipublikasikan untuk referensi teknis dan pembelajaran | TypeScript |
+| **perpustakaan-digital** | Sistem perpustakaan digital UIN Syarif Hidayatullah Jakarta dengan antarmuka mahasiswa dan admin terpisah | TypeScript |
+| **UMKM-Konsep-Sistem-Informasi** | Warung Analytics, sistem storefront dan admin inventory untuk UMKM | Next.js, Firebase |
+| **finance-web** | Aplikasi pencatatan keuangan harian untuk usaha kuliner | Express, Prisma, Next.js |
+| **for-my-fav-person** | Proyek personal polyglot lintas 8 bahasa pemrograman | TypeScript dan lainnya |
+| **sentinel** (private) | Platform keamanan web terdistribusi dengan DAST dan AST-aware auto patching, monorepo poliglot Next.js, Hono, Python, Go, Node | Enterprise Security |
+| **tugas-5** | Deliverable akademik | HTML |
 
 <br>
 
@@ -63,7 +51,7 @@ Star schema data warehouse untuk analisis pergerakan stok retail
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,react,mysql,tailwind,bootstrap,c,html,css,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,python,react,nextjs,firebase,go,mysql,tailwind,bootstrap,c,html,css,git,github,vscode&theme=dark" />
 
 </div>
 
@@ -84,10 +72,13 @@ Star schema data warehouse untuk analisis pergerakan stok retail
 
 <br>
 
-### Aktivitas Terbaru
+### Aktivitas Kontribusi
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=damta8827773&theme=redical&hide_border=true" />
+
+</div>
 
 <br>
 
