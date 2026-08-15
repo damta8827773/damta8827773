@@ -48,7 +48,6 @@
 - [FAQ](#faq)
 - [Cara Membaca README Ini](#cara-membaca-readme-ini)
 - [Ucapan Terima Kasih](#ucapan-terima-kasih)
-- [Legenda Warna Badge](#legenda-warna-badge)
 - [Riwayat Perubahan README](#riwayat-perubahan-readme)
 - [Tentang Dokumen Ini](#tentang-dokumen-ini)
   - [Rencana Update Selanjutnya](#rencana-update-selanjutnya)
@@ -189,53 +188,70 @@ Pendekatan ini sejalan dengan prinsip yang saya pegang di pengembangan software,
 
 ## Distribusi Bahasa Pemrograman
 
-Berikut distribusi bahasa pemrograman utama di seluruh 13 repository saya, dihitung berdasarkan bahasa utama tiap repository, bukan persentase byte kode seperti yang ditampilkan GitHub secara native. Ini supaya datanya tetap akurat dan tidak mengklaim angka yang tidak bisa saya verifikasi.
+Data berikut adalah breakdown bahasa pemrograman resmi dari GitHub, dihitung berdasarkan jumlah byte kode di seluruh repository, bukan estimasi jumlah repository seperti versi sebelumnya.
 
-| Bahasa | Jumlah Repository | Proporsi | Visual |
-|---|---|---|---|
-| TypeScript | 9 | 69% | ![69%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-3178C6?style=flat-square) |
-| PHP | 1 | 8% | ![8%](https://img.shields.io/badge/-%E2%96%88-777BB4?style=flat-square) |
-| Python | 1 | 8% | ![8%](https://img.shields.io/badge/-%E2%96%88-3776AB?style=flat-square) |
-| JavaScript | 1 | 8% | ![8%](https://img.shields.io/badge/-%E2%96%88-F7DF1E?style=flat-square) |
-| HTML | 1 | 8% | ![8%](https://img.shields.io/badge/-%E2%96%88-E34F26?style=flat-square) |
+| # | Bahasa | Porsi | Ukuran | Visual |
+|---|---|---|---|---|
+| 1 | TypeScript | 72,9% | 2.036 KB | ![72.9%](https://img.shields.io/badge/-%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88-3178C6?style=flat-square) |
+| 2 | PHP | 10,5% | 293 KB | ![10.5%](https://img.shields.io/badge/-%E2%96%88-777BB4?style=flat-square) |
+| 3 | CSS | 5,1% | 143 KB | ![5.1%](https://img.shields.io/badge/-%E2%96%88-1572B6?style=flat-square) |
+| 4 | JavaScript | 3,9% | 110 KB | ![3.9%](https://img.shields.io/badge/-%E2%96%88-F7DF1E?style=flat-square) |
+| 5 | Python | 3,6% | 100 KB | ![3.6%](https://img.shields.io/badge/-%E2%96%88-3776AB?style=flat-square) |
+| 6 | HTML | 1,8% | 51 KB | ![1.8%](https://img.shields.io/badge/-%E2%96%88-E34F26?style=flat-square) |
+| 7 | PowerShell | 1,1% | 29 KB | ![1.1%](https://img.shields.io/badge/-%E2%96%88-012456?style=flat-square) |
+| 8 | Go | 0,4% | 11 KB | ![0.4%](https://img.shields.io/badge/-%E2%96%88-00ADD8?style=flat-square) |
+| 9 | Dockerfile | 0,2% | 6 KB | ![0.2%](https://img.shields.io/badge/-%E2%96%88-384D54?style=flat-square) |
+| 10 | Java | 0,2% | 5 KB | ![0.2%](https://img.shields.io/badge/-%E2%96%88-ED8B00?style=flat-square) |
+| 11 | Batchfile | 0,1% | 2 KB | ![0.1%](https://img.shields.io/badge/-%E2%96%88-C1F12E?style=flat-square) |
+| 12 | Shell | 0,1% | 1 KB | ![0.1%](https://img.shields.io/badge/-%E2%96%88-89E051?style=flat-square) |
 
-Repository dengan TypeScript sebagai bahasa utama: geprek-supply, portoprivate, perpustakaan-digital, esports-management-system, UMKM-Konsep-Sistem-Informasi, steam-cuci-motor, for-my-fav-person, finance-web, sentinel.
+Selain 12 bahasa di atas, ada 10 bahasa lain dengan porsi di bawah 0,1% masing-masing kurang dari 1 KB: Perl, C, Rust, Solidity, Elixir, C++, Scala, Erlang, HCL, dan Open Policy Agent. Bahasa-bahasa ini kemungkinan besar muncul dari contoh kode multi-bahasa di repository seperti premium (API client examples dalam 20 bahasa pemrograman) dan for-my-fav-person (proyek poliglot lintas 8 bahasa), bukan dari proyek produksi utuh berbahasa tersebut.
 
-Repository dengan bahasa lain sebagai bahasa utama: premium menggunakan PHP, sistem-otomasi-suara menggunakan Python, pendapatan menggunakan JavaScript, tugas-5 menggunakan HTML.
-
-Tabel di atas dibuat secara statis supaya selalu tampil dengan benar, tidak bergantung pada layanan pihak ketiga yang kadang gagal memuat. Untuk breakdown bahasa berbasis byte kode secara real time, kartu live di bagian GitHub Statistics di bawah akan menampilkannya langsung dari data GitHub.
+Data ini diambil langsung dari halaman statistik bahasa GitHub, sehingga mencerminkan volume kode byte yang sebenarnya, termasuk kode dari file konfigurasi, contoh, dan skrip pendukung, bukan cuma bahasa utama tiap repository.
 
 ### TypeScript
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Bahasa utama di 9 repository: geprek-supply, portoprivate, perpustakaan-digital, esports-management-system, UMKM-Konsep-Sistem-Informasi, steam-cuci-motor, for-my-fav-person, finance-web, dan sentinel. Dipakai konsisten di frontend berbasis React atau Next.js maupun backend berbasis Express atau Hono, biasanya dipasangkan dengan Prisma sebagai ORM.
+Bahasa dominan dengan porsi 72,9% dari total kode, dipakai konsisten di frontend berbasis React atau Next.js maupun backend berbasis Express atau Hono, biasanya dipasangkan dengan Prisma sebagai ORM.
 
 ### PHP
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-Dipakai di repository premium, sebuah digital goods storefront yang mengintegrasikan Midtrans untuk pembayaran dan Firebase untuk autentikasi.
+Porsi 10,5%, sebagian besar berasal dari repository premium, digital goods storefront yang mengintegrasikan Midtrans untuk pembayaran dan Firebase untuk autentikasi, plus contoh API client lintas bahasa di repo yang sama.
 
-### Python
+### CSS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Dipakai di repository sistem-otomasi-suara, sebuah terminal voice controller berbasis model Whisper yang berjalan offline untuk automasi laptop.
+Porsi 5,1%, tersebar di berbagai proyek sebagai styling pendukung di luar Tailwind CSS, termasuk custom styling untuk komponen tertentu.
 
 ### JavaScript
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Dipakai di repository pendapatan sebagai bahasa utama, sebuah income tracker full-stack dengan React 19 dan Express 5.
+Porsi 3,9%, sebagian besar dari repository pendapatan, income tracker full-stack dengan React 19 dan Express 5, ditambah skrip konfigurasi di proyek lain.
+
+### Python
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Porsi 3,6%, sebagian besar dari repository sistem-otomasi-suara, terminal voice controller berbasis model Whisper yang berjalan offline.
 
 ### HTML
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Dipakai di repository tugas-5, sebuah deliverable akademik kampus.
+Porsi 1,8%, mencakup repository tugas-5 dan berkas HTML pendukung di berbagai proyek web lain.
 
-<br>
+### PowerShell, Go, dan Bahasa Pendukung Lainnya
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+PowerShell muncul dari skrip otomatisasi di lingkungan Windows. Go dengan porsi 0,4% berasal dari monorepo sentinel yang memakai Go untuk servis performa tinggi. Dockerfile, Java, Batchfile, dan Shell melengkapi bagian infrastruktur dan tooling pendukung di berbagai proyek dengan porsi kecil.
 
 ## Ringkasan Repository
 
@@ -1008,21 +1024,6 @@ Semua layanan di atas gratis dan open source, dijalankan oleh komunitas develope
 
 <br>
 
-## Legenda Warna Badge
-
-Badge kategori di bagian Proyek Lainnya memakai kode warna berikut supaya mudah dipindai sekilas:
-
-| Warna | Kategori |
-|---|---|
-| Biru muda | Personal |
-| Biru muda | Akademik |
-| Biru muda | Bisnis |
-| Biru muda | Keamanan |
-
-Catatan: semua badge kategori sengaja memakai warna yang sama, biru muda netral, supaya fokus pembaca tetap ke teks label kategori itu sendiri, bukan ke variasi warna yang tidak perlu.
-
-<br>
-
 ## Riwayat Perubahan README
 
 Bagian ini mencatat evolusi README ini sepanjang proses penyusunannya, supaya perubahan besar tetap terdokumentasi.
@@ -1092,7 +1093,6 @@ Dibangun dan terus dirawat oleh Damta Noviyan Muhamad Faiz, mahasiswa Sistem Inf
 
 <sub>Terakhir diperbarui mengikuti sesi penyusunan README ini.</sub>
 <sub>Dari 13 repository dan terus bertambah.</sub>
-
 <sub>Selamat membaca, dan terima kasih sudah sampai di baris terakhir.</sub>
 
 </div>
