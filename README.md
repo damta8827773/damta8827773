@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2013%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
+[🇮🇩 Bahasa Indonesia](./README.md) | [🇬🇧 English](./README.en.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77216&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sistem+Informasi+Student+at+UIN+Jakarta;13%2B+Public+%26+Private+Repositories;Node.js+%7C+TypeScript+%7C+React+%7C+PHP;Building+Toward+Cybersecurity+Leadership" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2016%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77216&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sistem+Informasi+Student+at+UIN+Jakarta;16+GitHub+Repos+%2B+7+Local+Systems;22+Languages+Across+All+Projects;Building+Toward+Cybersecurity+Leadership" />
 
 <br>
 
 <img src="https://img.shields.io/badge/status-actively%20building-brightgreen?style=flat-square" />
 <img src="https://img.shields.io/badge/focus-full--stack%20systems-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/goal-cybersecurity%20leadership-red?style=flat-square" />
-<img src="https://img.shields.io/badge/repositories-13%2B-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/repositories-16-orange?style=flat-square" />
 
 </div>
 
@@ -22,6 +24,7 @@
 - [Skill Matrix](#skill-matrix)
 - [Distribusi Bahasa Pemrograman](#distribusi-bahasa-pemrograman)
 - [Ringkasan Repository](#ringkasan-repository)
+- [Sistem Lokal (Belum Diunggah ke GitHub)](#sistem-lokal-belum-diunggah-ke-github)
 - [Snapshot Kontribusi](#snapshot-kontribusi)
 - [Proyek Pilihan](#proyek-pilihan)
   - [premium](#premium---digital-goods-storefront)
@@ -255,10 +258,44 @@ PowerShell muncul dari skrip otomatisasi di lingkungan Windows. Go dengan porsi 
 
 ## Ringkasan Repository
 
+Data berikut diperbarui berdasarkan breakdown bahasa resmi per repository dari GitHub, mencakup 16 repository berisi kode (di luar damta8827773 yang merupakan repo profil, tidak berisi kode).
+
+### Catatan Koreksi Penting
+
+Dua temuan penting dari audit data terbaru:
+
+1. **perpustakaan-digital ternyata repo paling poliglot**, bukan sekadar proyek TypeScript sederhana seperti yang tertulis di versi README sebelumnya. Repo ini berisi 19 bahasa berbeda, termasuk Rust, Solidity, Erlang, dan Open Policy Agent, menjadikannya repo paling teknis secara variasi stack, meski sebelumnya kurang menonjol di README ini.
+2. **Versi lokal premium jauh lebih kaya** dibanding yang sudah di-push ke GitHub. Versi lokal memakai 15 bahasa (termasuk C, C++, C#, Ruby, Rust, Scala), sementara versi GitHub baru berisi 3 bahasa (PHP, CSS, JavaScript). Kemungkinan contoh API client 20 bahasa yang disebut di deskripsi repo belum sepenuhnya ter-push ke GitHub.
+
+### Seluruh Repository di GitHub
+
+| Repository | Ukuran | Jumlah Bahasa | Bahasa yang Dipakai |
+|---|---|---|---|
+| perpustakaan-digital | 279 KB | 19 | TypeScript, CSS, C, HTML, Rust, Go, Python, Solidity, PHP, Elixir, C++, Scala, Erlang, Java, HCL, Open Policy Agent, PowerShell, Dockerfile, Shell |
+| for-my-fav-person | 136 KB | 10 | TypeScript, CSS, JavaScript, HTML, Java, Python, Go, PHP, PowerShell, Perl |
+| sentinel (privat) | 771 KB | 9 | TypeScript, Python, JavaScript, PowerShell, Go, Dockerfile, CSS, PHP, Shell |
+| steam-cuci-motor | 83 KB | 5 | TypeScript, CSS, Batchfile, JavaScript, HTML |
+| portoprivate | 476 KB | 4 | TypeScript, CSS, HTML, JavaScript |
+| finance-web | 72 KB | 4 | TypeScript, HTML, JavaScript, CSS |
+| premium | 298 KB | 3 | PHP, CSS, JavaScript |
+| UMKM-Konsep-Sistem-Informasi | 118 KB | 3 | TypeScript, CSS, JavaScript |
+| pendapatan | 26 KB | 3 | JavaScript, CSS, HTML |
+| pertemuan-2 | 9 KB | 3 | CSS, HTML, JavaScript |
+| sistem-otomasi-suara | 31 KB | 2 | Python, Batchfile |
+| tugas-5 | 5 KB | 2 | HTML, JavaScript |
+| geprek-supply | 256 KB | 1 | TypeScript |
+| esports-management-system | 229 KB | 1 | TypeScript |
+| pertemuan-6 | 4 KB | 1 | HTML |
+| pertemuan-1 | 1 KB | 1 | HTML |
+
+Repository pertemuan-1, pertemuan-2, dan pertemuan-6 adalah latihan mingguan dari sesi perkuliahan, ukurannya kecil karena memang berupa exercise, bukan proyek utuh.
+
+### Kategori Proyek
+
 | Kategori | Jumlah Proyek | Contoh |
 |---|---|---|
 | Bisnis dan E-commerce | 4 | premium, steam-cuci-motor, UMKM-Konsep-Sistem-Informasi, finance-web |
-| Sistem Informasi Akademik | 3 | geprek-supply, perpustakaan-digital, tugas-5 |
+| Sistem Informasi Akademik | 6 | geprek-supply, perpustakaan-digital, tugas-5, pertemuan-1, pertemuan-2, pertemuan-6 |
 | Automasi dan AI | 1 | sistem-otomasi-suara |
 | Manajemen dan Dashboard | 1 | esports-management-system |
 | Keuangan Personal | 1 | pendapatan |
@@ -282,6 +319,25 @@ PowerShell muncul dari skrip otomatisasi di lingkungan Windows. Go dengan porsi 
 | finance-web | 14 Juni |
 | sentinel | 11 Juni |
 | tugas-5 | 11 Maret |
+| pertemuan-1, pertemuan-2, pertemuan-6 | Tanggal tidak tercatat di data yang tersedia |
+
+<br>
+
+## Sistem Lokal (Belum Diunggah ke GitHub)
+
+Selain repository publik dan privat di GitHub, ada beberapa sistem yang sudah dibangun secara lokal tapi belum diunggah. Dicatat di sini supaya portofolio tetap lengkap, dengan penanda jelas bahwa ini belum bisa diakses publik.
+
+| Sistem (Folder) | Jumlah Bahasa | Bahasa yang Dipakai |
+|---|---|---|
+| premium (versi lokal) | 15 | C, C++, C#, CSS, Go, Java, JavaScript, PHP, PowerShell, Python, Ruby, Rust, Scala, Shell, TypeScript |
+| parafrase (Sentinel AI Paraphrase) | 10 | C, C++, Elixir, PowerShell, Python, Ruby, Rust, Shell, SQL, TypeScript |
+| inovasi (Neuro-Nexus) | 8 | C, CSS, JavaScript, Python, Shell, SQL, TypeScript, TSX |
+| dup tokped (Marketplace) | 4 | CSS, JavaScript, TypeScript, TSX |
+| gagas (Inventory) | 4 | CSS, HTML, JavaScript, PHP |
+| absensi (Face Recognition) | 3 | PHP, Python, SQL |
+| Toko Shopify (Lumera) | 3 | CSS, HTML, JavaScript |
+
+Sistem-sistem ini belum masuk ke perhitungan statistik GitHub resmi di bagian Distribusi Bahasa Pemrograman, karena memang belum ada di repository publik atau privat manapun di GitHub.
 
 <br>
 
@@ -321,7 +377,10 @@ Kalau kartu di atas belum tampil saat pertama dibuka, baca penjelasan lengkapnya
 ### premium - Digital Goods Storefront
 
 **Ringkasan**
-Storefront digital untuk penjualan produk digital, dilengkapi contoh integrasi API client dalam 20 bahasa pemrograman berbeda sebagai referensi teknis untuk pengembang lain.
+Storefront digital untuk penjualan produk digital, dirancang dengan contoh integrasi API client lintas bahasa sebagai referensi teknis untuk pengembang lain.
+
+**Catatan Akurasi**
+Versi lokal proyek ini jauh lebih lengkap, memakai 15 bahasa pemrograman termasuk C, C++, C#, Ruby, Rust, dan Scala. Versi yang sudah di-push ke GitHub saat ini baru berisi 3 bahasa (PHP, CSS, JavaScript), sehingga contoh API client lintas bahasa yang dimaksud kemungkinan belum sepenuhnya ter-upload. Deskripsi fitur di bawah mencerminkan tujuan proyek secara keseluruhan, bukan hanya kondisi repo GitHub saat ini.
 
 **Fitur Utama**
 - Integrasi pembayaran melalui Midtrans
@@ -329,14 +388,26 @@ Storefront digital untuk penjualan produk digital, dilengkapi contoh integrasi A
 - Dokumentasi API client lintas bahasa untuk kebutuhan integrasi pihak ketiga
 - Autentikasi dan manajemen akses berbasis Firebase
 
-**Tech Stack**
+**Tech Stack (versi GitHub)**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tech Stack (versi lokal, lebih lengkap)**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white)
 
 **Lisensi:** MIT
 
 **Ide Pengembangan Selanjutnya**
+- Push versi lokal yang lebih lengkap ke GitHub supaya repo mencerminkan proyek yang sebenarnya
 - Menambah metode pembayaran selain Midtrans
 - Dashboard analitik penjualan produk digital
 - Sistem afiliasi untuk reseller
@@ -467,13 +538,16 @@ Aplikasi pelacak pemasukan full-stack dengan frontend modern dan backend yang te
 
 | Repository | Deskripsi | Stack | Visibilitas |
 |---|---|---|---|
-| portoprivate | Source code resmi portofolio pribadi, dipublikasikan untuk referensi teknis dan pembelajaran | TypeScript | Public |
-| perpustakaan-digital | Sistem perpustakaan digital UIN Syarif Hidayatullah Jakarta dengan antarmuka mahasiswa dan admin terpisah | TypeScript | Public |
-| UMKM-Konsep-Sistem-Informasi | Warung Analytics, sistem storefront dan admin inventory untuk UMKM | Next.js, Firebase | Public |
-| finance-web | Aplikasi pencatatan keuangan harian untuk usaha kuliner | Express, Prisma, Next.js | Public |
-| for-my-fav-person | Proyek personal poliglot lintas 8 bahasa pemrograman | TypeScript dan lainnya | Public |
-| sentinel | Platform keamanan web terdistribusi dengan DAST dan AST-aware auto patching, monorepo poliglot | Next.js, Hono, Python, Go, Node | Private |
-| tugas-5 | Deliverable akademik | HTML | Public |
+| portoprivate | Source code resmi portofolio pribadi, dipublikasikan untuk referensi teknis dan pembelajaran | TypeScript, JavaScript, HTML, CSS | Public |
+| perpustakaan-digital | Sistem perpustakaan digital UIN Syarif Hidayatullah Jakarta, repo paling poliglot dengan 19 bahasa | TypeScript, Rust, Go, Solidity, dan 15 lainnya | Public |
+| UMKM-Konsep-Sistem-Informasi | Warung Analytics, sistem storefront dan admin inventory untuk UMKM | TypeScript, JavaScript, CSS | Public |
+| finance-web | Aplikasi pencatatan keuangan harian untuk usaha kuliner | TypeScript, JavaScript, HTML, CSS | Public |
+| for-my-fav-person | Proyek personal poliglot lintas 10 bahasa pemrograman | TypeScript, JavaScript, Java, Python, Go, PHP, dan lainnya | Public |
+| sentinel | Platform keamanan web terdistribusi dengan DAST dan AST-aware auto patching, monorepo poliglot 9 bahasa | TypeScript, Python, JavaScript, Go, dan lainnya | Private |
+| tugas-5 | Deliverable akademik | HTML, JavaScript | Public |
+| pertemuan-1 | Latihan mingguan sesi perkuliahan | HTML | Public |
+| pertemuan-2 | Latihan mingguan sesi perkuliahan | CSS, HTML, JavaScript | Public |
+| pertemuan-6 | Latihan mingguan sesi perkuliahan | HTML | Public |
 
 <br>
 
@@ -489,9 +563,12 @@ Repo ini adalah sumber resmi dari situs portofolio pribadi di damtaweb.com, seng
 **perpustakaan-digital**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kategori](https://img.shields.io/badge/Kategori-Akademik-9cf?style=flat-square)
+![Paling Poliglot](https://img.shields.io/badge/19%20Bahasa-Paling%20Poliglot-red?style=flat-square)
 
-Dibangun untuk konteks kampus, memisahkan alur mahasiswa untuk pencarian dan peminjaman buku dari alur admin untuk manajemen koleksi, sehingga hak akses jelas terpisah sejak level arsitektur.
+Dibangun untuk konteks kampus, memisahkan alur mahasiswa untuk pencarian dan peminjaman buku dari alur admin untuk manajemen koleksi, sehingga hak akses jelas terpisah sejak level arsitektur. Repo ini sebenarnya adalah repository paling poliglot di seluruh portofolio, berisi 19 bahasa pemrograman termasuk Rust, Solidity, Erlang, dan Open Policy Agent, meski sebelumnya kurang menonjol karena README versi lama hanya menyebut TypeScript sebagai satu-satunya bahasa.
 
 **UMKM-Konsep-Sistem-Informasi**
 
@@ -559,13 +636,36 @@ Pola ini menunjukkan aktivitas yang konsisten di berbagai kategori proyek sekali
 
 ## Tech Stack
 
+Bagian ini diperbarui untuk mencerminkan seluruh 22 bahasa yang tercatat resmi di GitHub, ditambah bahasa tambahan yang dipakai di sistem lokal yang belum diunggah.
+
+### Bahasa dan Tool Inti
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,ts,js,php,python,react,nextjs,firebase,go,mysql,tailwind,bootstrap,c,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,php,python,mysql,tailwind,bootstrap,c,cpp,cs,go,ruby,rust,scala,docker,git,github,vscode,powershell&theme=dark" />
 
 </div>
 
-Ikon di atas mewakili seluruh bahasa dan tool yang benar-benar dipakai di 13 repository saya, dari Node.js dan TypeScript sebagai fondasi utama, PHP untuk proyek storefront, Python untuk automasi suara, sampai Go dan Hono di dalam monorepo sentinel.
+### Bahasa Tambahan dan Niche
+
+Beberapa bahasa berikut belum punya ikon standar di skillicons.dev, jadi ditampilkan sebagai badge teks supaya tetap konsisten tampil:
+
+<div align="center">
+
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
+![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Open Policy Agent](https://img.shields.io/badge/Open%20Policy%20Agent-7D9199?style=for-the-badge)
+![Batchfile](https://img.shields.io/badge/Batchfile-C1F12E?style=for-the-badge&logo=windows&logoColor=black)
+![TSX](https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
+
+Ikon dan badge di atas mewakili seluruh bahasa dan tool yang benar-benar dipakai di 16 repository GitHub ditambah 7 sistem lokal yang belum diunggah, dari TypeScript dan JavaScript sebagai fondasi utama, PHP untuk proyek storefront, Python untuk automasi suara dan AI, sampai bahasa yang lebih niche seperti Solidity dan Erlang yang muncul di repo perpustakaan-digital.
 
 <br>
 
@@ -618,7 +718,10 @@ Prinsip-prinsip ini masih dalam tahap saya pelajari dan terapkan bertahap, sejal
 
 <div align="center">
 
-![Repositories](https://img.shields.io/badge/Repositories-13%2B-blue?style=for-the-badge)
+![GitHub Repos](https://img.shields.io/badge/GitHub%20Repositories-16-blue?style=for-the-badge)
+![Local Systems](https://img.shields.io/badge/Sistem%20Lokal-7-blueviolet?style=for-the-badge)
+![Languages](https://img.shields.io/badge/Bahasa%20di%20GitHub-22-yellow?style=for-the-badge)
+![Code Size](https://img.shields.io/badge/Total%20Kode-2.73%20MB-teal?style=for-the-badge)
 ![Followers](https://img.shields.io/badge/Followers-3-lightgrey?style=for-the-badge)
 ![Following](https://img.shields.io/badge/Following-2-lightgrey?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Total%20Contributions-178-green?style=for-the-badge)
@@ -626,20 +729,21 @@ Prinsip-prinsip ini masih dalam tahap saya pelajari dan terapkan bertahap, sejal
 
 </div>
 
-Angka followers dan following di atas adalah data per pengecekan terakhir dan bisa berubah seiring waktu, sama seperti angka kontribusi yang tercatat di bagian Snapshot Kontribusi.
+Angka followers dan following di atas adalah data per pengecekan terakhir dan bisa berubah seiring waktu, sama seperti angka kontribusi yang tercatat di bagian Snapshot Kontribusi. Total 16 repository di GitHub ditambah 7 sistem lokal yang belum diunggah menghasilkan 23 sistem secara keseluruhan.
 
 <br>
 
 ## Catatan Teknis Soal Kartu Statistik
 
-Beberapa kartu bergambar di README ini, terutama kartu pin proyek dan kartu top languages, diambil dari layanan gratis pihak ketiga bernama github-readme-stats yang dihosting bersama oleh banyak pengguna di seluruh dunia. Karena dipakai bersama secara global, layanan ini kadang kena rate limit dan gambarnya gagal muncul untuk sementara, bukan karena ada yang salah di kode README-nya.
+Beberapa kartu bergambar di README ini, terutama kartu pin proyek dan kartu top languages, diambil dari layanan gratis pihak ketiga bernama github-readme-stats yang dihosting bersama oleh banyak pengguna di seluruh dunia. Setelah ditelusuri lebih lanjut, ini bukan sekadar rate limit ringan, tapi masalah yang cukup sering dilaporkan di GitHub Issues resmi proyeknya, termasuk laporan instance publiknya sempat di-pause langsung oleh pemiliknya. Tim pembuatnya sendiri secara resmi menyebut instance publik ini sebagai layanan best-effort dan merekomendasikan self-hosting untuk siapa pun yang butuh kartu selalu tampil.
 
-Kalau kartu masih terlihat kosong atau ikon patah setelah beberapa saat, ada dua opsi:
+Ada tiga opsi kalau kartu masih terlihat kosong atau ikon patah:
 
-1. **Tunggu dan reload halaman**, biasanya pulih sendiri dalam beberapa menit sampai beberapa jam
-2. **Deploy instance sendiri di Vercel**, ini solusi permanen yang direkomendasikan resmi oleh pembuat github-readme-stats. Caranya fork repository anuraghazra/github-readme-stats, deploy ke akun Vercel pribadi kamu, tambahkan GitHub personal access token sebagai environment variable, lalu ganti domain di semua URL kartu dari github-readme-stats.vercel.app menjadi domain Vercel milikmu sendiri
+1. **Tunggu dan reload halaman**, kadang pulih sendiri dalam beberapa menit sampai beberapa jam
+2. **Deploy instance sendiri di Vercel**, fork repository anuraghazra/github-readme-stats, deploy ke akun Vercel pribadi, tambahkan GitHub personal access token sebagai environment variable, lalu ganti domain di semua URL kartu
+3. **Pakai GitHub Actions untuk generate kartu statis** (solusi paling permanen), sudah disiapkan filenya bernama `update-readme-cards.yml`. Cukup taruh file ini di `.github/workflows/` pada repo profil damta8827773, lalu jalankan sekali secara manual dari tab Actions. Workflow ini akan meng-generate berkas SVG statis (`profile/stats.svg` dan `profile/top-langs.svg`) langsung di dalam repo kamu sendiri, lalu README bisa merujuk ke file itu alih-alih ke server pihak ketiga yang sering down, contoh: `![Stats](./profile/stats.svg)`
 
-Karena README ini juga menyertakan tabel Distribusi Bahasa Pemrograman dalam bentuk teks statis, profil kamu tetap terlihat lengkap dan informatif meskipun kartu bergambar sedang tidak bisa dimuat.
+Karena README ini juga menyertakan tabel Distribusi Bahasa Pemrograman dan Ringkasan Repository dalam bentuk teks statis, profil kamu tetap terlihat lengkap dan informatif meskipun kartu bergambar sedang tidak bisa dimuat.
 
 <br>
 
