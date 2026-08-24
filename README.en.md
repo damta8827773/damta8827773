@@ -2,7 +2,7 @@
 
 [🇮🇩 Bahasa Indonesia](./README.md) | [🇬🇧 English](./README.en.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2016%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan%20Muhamad%20Faiz&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2016%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77216&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Information+Systems+Student+at+UIN+Jakarta;16+GitHub+Repos+%2B+7+Local+Systems;22+Languages+Across+All+Projects;Building+Toward+Cybersecurity+Leadership" />
 
