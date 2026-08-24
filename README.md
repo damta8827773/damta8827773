@@ -2,7 +2,7 @@
 
 [🇮🇩 Bahasa Indonesia](./README.md) | [🇬🇧 English](./README.en.md)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2016%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Damta%20Noviyan%20Muhamad%20Faiz&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%2016%2B%20Shipped%20Projects&descAlignY=52&descAlign=50" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F77216&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Sistem+Informasi+Student+at+UIN+Jakarta;16+GitHub+Repos+%2B+7+Local+Systems;22+Languages+Across+All+Projects;Building+Toward+Cybersecurity+Leadership" />
 
@@ -1181,8 +1181,8 @@ Rencana ini bersifat terbuka dan bisa berubah tergantung arah proyek yang benar-
 
 <div align="center">
 
-<a href="mailto:GANTI_EMAIL_KAMU"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/GANTI_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:damtafaiz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/damta-noviyan-muhamad-faiz-955493221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://damtaweb.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 <br><br>
